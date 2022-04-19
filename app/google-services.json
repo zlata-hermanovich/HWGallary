@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703344834301",
+    "project_id": "my-gallary-9042f",
+    "storage_bucket": "my-gallary-9042f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703344834301:android:3bc91b4d04739eb064f094",
+        "android_client_info": {
+          "package_name": "com.example.homework30camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703344834301-jlag70ocvjniga040seumh301d74jinv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_VPWBqs5jGzwB8evk9OYI1L6yn19C_K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703344834301-jlag70ocvjniga040seumh301d74jinv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
